@@ -1,4 +1,6 @@
 .picture {
+  position: absolute;
+  z-index: -1;
   @media screen and (max-width: 768px) {
     display: none;
   }
@@ -185,7 +187,7 @@ hr {
     margin-top: 40px;
     margin-bottom: 55px;
   }
-  @media screen and (max-width: 320px){
+  @media screen and (max-width: 320px) {
     margin-top: 18px;
     margin-bottom: 43px;
   }
@@ -235,10 +237,10 @@ ol {
       margin-right: 19px;
     }
   }
-  
-  @media screen and (max-width: 320px){
+
+  @media screen and (max-width: 320px) {
     column-count: 1;
-    li{
+    li {
       margin-bottom: 11px;
     }
   }
@@ -306,7 +308,7 @@ ol {
     font-size: 40px;
     line-height: 30px;
   }
-  @media screen and (max-width: 320px){
+  @media screen and (max-width: 320px) {
     font-size: 22px;
     line-height: 30px;
   }
@@ -507,7 +509,7 @@ iframe {
     width: 93vw;
     height: fit-content;
   }
-  @media screen and (max-width: 320px){
+  @media screen and (max-width: 320px) {
     margin-bottom: 48px;
   }
 }

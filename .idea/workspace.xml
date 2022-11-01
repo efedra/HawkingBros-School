@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a45a36df-de91-494e-b264-b9c5cad0ce79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HawkingBros1.1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lato-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Montserrat-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/fonts/Montserrat-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Montserrat-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/fonts/Montserrat-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Montserrat-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/fonts/Montserrat-Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Group 20.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/Group 20.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Group 21.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/Group 21.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/Logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/architect 1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/architect 1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/burger menu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/burger menu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/cart.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/cart.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/guarantee 1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/guarantee 1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/instagram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/instagram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/like.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/like.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/orange/instagram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/orange/instagram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/orange/telegram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/orange/telegram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/orange/vk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/orange/vk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/orange/whatsapp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/orange/whatsapp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img-3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img-4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img-4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img-5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img-5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img-6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img-6.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img-7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img-7.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/photo/img.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/photo/img.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/placeholder 1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/placeholder 1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/review 1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/review 1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/search.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/search.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/telegram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/telegram.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/vk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/wall-clock 1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/wall-clock 1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/whatsapp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/img/whatsapp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fonts.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/fonts.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/header.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/header.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/scss/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GacplRLenoVA3kAhU5n93JEknS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/University/HawkingBros1",
+    "list.type.of.created.stylesheet": "SCSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\University\HawkingBros1\HawkingBros1.1" />
+      <recent name="D:\University\HawkingBros1\HawkingBros" />
+      <recent name="D:\University\HawkingBros1\img" />
+      <recent name="D:\University\HawkingBros1\img\photo" />
+      <recent name="D:\University\HawkingBros1\fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a45a36df-de91-494e-b264-b9c5cad0ce79" name="Changes" comment="" />
+      <created>1666630319982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666630319982</updated>
+      <workItem from="1666630321265" duration="12415000" />
+      <workItem from="1666683421527" duration="19365000" />
+      <workItem from="1666793350447" duration="9512000" />
+      <workItem from="1666868199721" duration="13996000" />
+      <workItem from="1666896532146" duration="351000" />
+      <workItem from="1666896912345" duration="254000" />
+      <workItem from="1666940843041" duration="550000" />
+      <workItem from="1666967724454" duration="16058000" />
+      <workItem from="1667038306543" duration="4524000" />
+      <workItem from="1667048979709" duration="598000" />
+      <workItem from="1667244866715" duration="6185000" />
+      <workItem from="1667251337282" duration="90000" />
+      <workItem from="1667315921380" duration="2076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

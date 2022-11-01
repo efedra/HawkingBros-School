@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.header_menu {
+  display: flex;
+  height: 5vh;
+}
+
+.header {
+  background: black;
+  width: 25%;
+}
+
+.menu {
+  background: crimson;
+  width: 75%;
+}
+
+.hero {
+  background: cornflowerblue;
+}
+
+.main {
+  background: darkslategray;
+}
+
+.image {
+  background: aquamarine;
+}
+
+.extra {
+  background: palegreen;
+}
+
+.banner {
+  background: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */

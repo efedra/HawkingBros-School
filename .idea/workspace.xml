@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45a36df-de91-494e-b264-b9c5cad0ce79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HawkingBros.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HawkingBros1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/University/HawkingBros1",
+    "last_opened_file_path": "D:/University/HawkingBros",
     "list.type.of.created.stylesheet": "SCSS",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "watcher.settings",
@@ -79,7 +77,8 @@
       <workItem from="1667048979709" duration="598000" />
       <workItem from="1667244866715" duration="6185000" />
       <workItem from="1667251337282" duration="90000" />
-      <workItem from="1667315921380" duration="2394000" />
+      <workItem from="1667315921380" duration="3154000" />
+      <workItem from="1667319156371" duration="452000" />
     </task>
     <servers />
   </component>

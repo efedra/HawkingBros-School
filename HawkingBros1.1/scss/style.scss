@@ -1,39 +1,91 @@
 //1440 768 414
-*{
-    margin: 0px;
-    padding: 0px;
-}
-.header_menu{
-    display: flex;
-    height: 5vh;
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
-.header{
-    background: black;
-    width: 25%;
+
+.header {
+  grid-area: header;
+  background: black;
+  color: #FFFFFF;
 }
 
-.menu{
-    background: crimson;
-    width: 75%;
+.menu {
+  grid-area: menu;
+  background: #E33E54;
+  color: #FFFFFF;
 }
 
-.hero{
-    background: cornflowerblue;
+.hero {
+  grid-area: hero;
+  background: #4C858B;
+  color: #FFFFFF;
 }
 
-.main{
-    background: darkslategray;
+.main {
+  grid-area: main;
+  background: #B1B1B1;
 }
 
-.image{
-background: aquamarine;
+.image {
+  grid-area: image;
+  background: palegreen;
 }
 
-.extra{
-    background: palegreen;
+.extra {
+  grid-area: extra;
+  background: cadetblue;
 }
 
-.banner{
-    background: yellow;
+.banner {
+  grid-area: banner;
+  background: yellow;
+}
+
+.grid-container {
+  display: grid;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  font-family: system-ui;
+  grid-template-columns: 25% repeat(3, 25%);
+  grid-template-rows: 7vh 53vh repeat(3, 13.33vh);
+  text-align: center;
+  grid-template-areas:
+          "header menu menu menu"
+          "hero hero hero hero"
+          "main main . image"
+          "main main . extra"
+          "banner banner banner banner";
+  @media all and (max-width: 768px) {
+    grid-template-columns: 25% 50% 25%;
+    grid-template-rows: 7vh 53vh repeat(3, 13.33vh);
+    grid-template-areas:
+          "header header header"
+          "hero hero hero"
+          "menu main main"
+          "menu banner banner"
+          "menu extra image ";
+  }
+
+  @media all and (max-width: 414px) {
+    grid-template-columns: 100%;
+    grid-template-rows: 6vh 6vh 25vh 25vh repeat(3, 13vh);
+    grid-template-areas:
+          "header"
+          "menu"
+          "hero"
+          "main"
+          "banner"
+          "extra"
+          "image";
+  }
+}
+
+.grid-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

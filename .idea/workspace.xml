@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a45a36df-de91-494e-b264-b9c5cad0ce79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HawkingBros1.1/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HawkingBros1.2/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HawkingBros1.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1.1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HawkingBros1.1/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1.1/scss/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HawkingBros1.1/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1.1/scss/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HawkingBros1.1/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1.1/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HawkingBros1.2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/HawkingBros1.2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +79,8 @@
       <workItem from="1667315921380" duration="3154000" />
       <workItem from="1667319156371" duration="7564000" />
       <workItem from="1667385280443" duration="211000" />
-      <workItem from="1667467226247" duration="9352000" />
+      <workItem from="1667467226247" duration="10091000" />
+      <workItem from="1667839764172" duration="2691000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,35 @@
+<!-- На различных сайтах можно встретить опцию переключения цветовой темы. Необходимо реализовать возможность выбрать и-->
+<!-- сохранить background-color блока, чтобы даже после закрытия и открытия вкладки, выбранный цвет сохранился.-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local storage homework</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="page-wrapper light-theme-background">
+        <p>Введите свое имя пользователя на GitHub. Задание №1</p>
+        <form>
+            <input class="input-name js-input" type="text" name="name" placeholder="Введите свое имя GitHub">
+            <button class="load-button js-load"> Загрузить данные </button>
+            <!-- Rounded switch -->
+            <label class="switch">
+                <input type="checkbox" class="switch__input">
+                <span class="switch__slider"></span>
+            </label>
+        </form>
+
+        <div class="results-container js-results light-theme-background">
+
+        </div>
+    </div>
+
+</body>
+<script src="scripts.js"></script>
+<script type="module" src="axios.js"></script>
+</html>

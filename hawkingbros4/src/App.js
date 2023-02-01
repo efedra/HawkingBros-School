@@ -1,14 +1,17 @@
 import React, {useEffect} from "react";
 
 const useTodos = (id) => {
+    const [data, setData] = React.useState([])
     useEffect(() => {
-        fetch(`https://jsonplaceholder.typicode.com/users/${id}/todos`)
-            .then((response) => response.json())
-            .then((response ) => {
-                console.log(response)
-                return response
-            })
-    })
+        if(id) {
+            fetch(`https://jsonplaceholder.typicode.com/users/${id}/todos`)
+                .then((response) => response.json())
+                .then((res) => {
+                        const d = res.map(elem => elem.title)
+                        setData(d)})
+        }
+    }, [id])
+    return [data]
 
 }
 
@@ -16,7 +19,7 @@ const useTodos = (id) => {
 function App() {
     const inputRef = React.useRef();
     const [data, setData] = React.useState('')
-    const response = useTodos(data)
+    const [response] = useTodos(data)
 
 
     return (
@@ -27,7 +30,11 @@ function App() {
                 setData(inputRef.current.value)
             }}>Показать/Скрыть список
             </button>
-            <ol>{response}</ol>
+
+            {response && (
+                <ol>{response.map(res => <li>{res}</li>)}</ol>
+            )}
+
         </div>
     );
 }
